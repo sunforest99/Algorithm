@@ -13,16 +13,121 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Stack">
+      <UniqueIdentifier>{21856a17-dd07-486f-99f2-941a9037ed63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\순회 알고리즘 %28DFS/BFS%29">
+      <UniqueIdentifier>{af83be8d-286b-440f-a4f8-534e3e284f07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\백트래킹">
+      <UniqueIdentifier>{f1e3b636-bb30-462b-b6ed-8737aeeb2978}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1874.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="2164.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
     <ClCompile Include="4949.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="9012.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="10773.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="10799.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="11866.cpp">
+      <Filter>Source Files\Stack</Filter>
     </ClCompile>
     <ClCompile Include="12789.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="17608.cpp">
+      <Filter>Source Files\Stack</Filter>
     </ClCompile>
     <ClCompile Include="18258.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Stack</Filter>
     </ClCompile>
+    <ClCompile Include="28278.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="24444.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="24445.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2606.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2667.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2178.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1012.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1697.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="24479.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="24480.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1260.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1303.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2468.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="11724.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10026.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="4963.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1926.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="15649.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15650.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="7576.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2644.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2583.cpp">
+      <Filter>Source Files\순회 알고리즘 %28DFS/BFS%29</Filter>
+    </ClCompile>
+    <ClCompile Include="15651.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15652.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
