@@ -126,6 +126,21 @@
     <ClCompile Include="15652.cpp">
       <Filter>Source Files\백트래킹</Filter>
     </ClCompile>
+    <ClCompile Include="15654.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="15655.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="1987.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="1759.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="10974.cpp">
+      <Filter>Source Files\백트래킹</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
